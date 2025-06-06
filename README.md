@@ -42,9 +42,9 @@ Hackerrank-Automation/
 
 ## 🎬 Demo Video
 
-> Click the image below to view the demo video showcasing the HackerRank automation in action.
+https://github.com/user-attachments/assets/855bd686-2aaa-4b5b-823c-2a42f71fc93b
 
-[Watch the Demo](https://github.com/85447/Hackerrank-Automation/blob/main/Demo%20Result/Video1.mp4)
+
 
 ## ▶️ How to Run
 
